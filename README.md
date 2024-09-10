@@ -5,6 +5,10 @@ This is the main repository for the fourth year main research. All the informati
 
 -- The Base model : https://www.figma.com/design/6zhGzyAZiUWyIUruZETaC1/Base-Model-LMS?node-id=0-1&t=DV4rJsuIJexhlDHa-1 
 
+# Working Notebooks : 
+
+- GitHub Link : https://github.com/RashmiNirasha/Gen_AI_Notebooks.git 
+
 # Step 01 
 - Explore existing LMS
   Eg: UCSC LMS
