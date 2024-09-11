@@ -7,6 +7,9 @@ import LandingPage from './components/LandingPage';
 import CoursesPage from './components/CoursesPage';
 import AnnouncementsPage from './components/AnnouncementsPage';
 import AnnouncementDetail from './components/AnnouncementDetail';
+import AssignmentsPage from './components/AssignmentsPage';
+import SubmittedAssignments from './components/SubmittedAssignments';
+import ProfilePage from './components/ProfilePage';
 
 function App() {
   return (
@@ -18,6 +21,9 @@ function App() {
         <Route path="/courses" element={<CoursesPage />} />
         <Route path="/announcements" element={<AnnouncementsPage />} />
         <Route path="/announcements/ai-for-everyone" element={<AnnouncementDetail />} />
+        <Route path="/assignments" element={<AssignmentsPage />} />
+        <Route path="/submitted-assignments" element={<SubmittedAssignments />} />
+        <Route path="/profile" element={<ProfilePage />} />
         {/* Add other routes here */}
       </Routes>
     </Router>
