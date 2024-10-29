@@ -5,9 +5,15 @@ const cors = require('cors');
 
 const app = express();
 
+//import routes
+const courseRoutes = require('./routes/courses');
+
 //app middleware
 app.use(bodyParser.json());
 app.use(cors());
+
+//route middleware
+app.use(courseRoutes);
 
 const PORT = 8000;
 const DB_URL = `mongodb+srv://rashini:rashini123@baselmsbackend.xhyvv.mongodb.net/?retryWrites=true&w=majority&appName=BaseLMSBackend`;
