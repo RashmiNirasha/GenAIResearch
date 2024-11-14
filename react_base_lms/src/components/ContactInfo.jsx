@@ -17,9 +17,8 @@ const ContactInfo = () => {
             <FaLinkedin className="text-blue-700" />
           </div>
         </div>
-        <div>
-          {/* Replace the src with your own map image or embed */}
-          <img src="https://via.placeholder.com/600x400" alt="Map" className="rounded-lg" />
+        <div style={{ backgroundImage: `url(${require('../assets/heroimg.webp')})` }}>
+          {/* <img src="https://via.placeholder.com/600x400" alt="Map" className="rounded-lg" /> */}
         </div>
       </div>
     </section>
