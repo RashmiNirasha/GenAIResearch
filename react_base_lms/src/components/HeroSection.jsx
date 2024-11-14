@@ -16,7 +16,7 @@ const HeroSection = () => {
         <p className="text-2xl mb-6 text-white drop-shadow-[0_4px_10px_rgba(0,0,0,0.5)]">Join Thousands of Students in Achieving their Educational Goals</p>
       </div>
       
-      <div className="absolute bottom-5">
+      <div className="absolute bottom-10">
         <Button text="Get Started" onClick={() => navigate('/sign-up')} />
       </div>
     </section>
