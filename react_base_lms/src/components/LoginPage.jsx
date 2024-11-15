@@ -20,15 +20,17 @@ const LoginPage = () => {
 
         <h2 className="text-2xl font-bold text-center mb-6">Sign-in to EduLearn</h2>
 
-        <span className="text-sm text-gray-600 mb-2">Email</span>
-        <InputField
-          type="email"
-          placeholder="example@mail.com"
-          icon={<FaEnvelope />}
-        />
+        <div className="mb-4">
+          <label className="text-sm text-gray-600">Email</label>
+          <InputField
+            type="email"
+            placeholder="example@mail.com"
+            icon={<FaEnvelope />}
+          />
+        </div>
 
-        <span className="text-sm text-gray-600 mb-2">Password</span>
-        <div className="mt-4">
+        <div className="mb-4">
+          <label className="text-sm text-gray-600">Password</label>
           <InputField
             type="password"
             placeholder="********"
@@ -47,14 +49,9 @@ const LoginPage = () => {
         <div className="mt-6">
           <button
             onClick={() => navigate('/courses')}
-            className="flex w-[100%] h-[50px] justify-center items-center bg-[#1677ff] rounded-lg shadow-[0_2px_0_0_rgba(5,145,255,0.1)] text-white text-[18px] hover:bg-[#1366cc] focus:outline-none"
+            className="w-full h-12 bg-[#1677ff] text-white text-lg font-semibold rounded-lg flex items-center justify-center hover:bg-[#1366cc] focus:outline-none shadow-md"
           >
-            <div className="flex gap-[8px] items-center">
-              <div
-                className="w-[16px] h-[16px] bg-cover"
-              />
-              <span>{"Sign-in"}</span>
-            </div>
+            Sign-in
           </button>
         </div>
 
