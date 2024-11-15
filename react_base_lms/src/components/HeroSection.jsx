@@ -17,7 +17,7 @@ const HeroSection = () => {
       </div>
       
       <div className="absolute bottom-10">
-        <Button text="Get Started" onClick={() => navigate('/sign-up')} />
+        <Button text="Get Started" onClick={() => navigate('/login')} />
       </div>
     </section>
   );
