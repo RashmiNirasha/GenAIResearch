@@ -5,8 +5,8 @@ import { FaChalkboardTeacher, FaCertificate, FaUsers } from 'react-icons/fa';
 
 const WhyChooseSection = () => {
   return (
-    <section className="py-16 bg-gray-100 text-center">
-      <h2 className="text-2xl font-bold mb-10">Why Choose EduLearn?</h2>
+    <section id="why-choose" className="py-16 bg-gray-100 text-center">
+      <h2 className="text-4xl font-bold mb-20">Why Choose EduLearn?</h2>
       <div className="container mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         <FeatureCard 
           icon={<FaChalkboardTeacher />} 
