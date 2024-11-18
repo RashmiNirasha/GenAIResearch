@@ -1,7 +1,6 @@
 // components/AssignmentsPage.js
 import React from 'react';
 import AssignmentCard from './AssignmentCard';
-import Navbar from './Navbar';
 import SignedInNavbar from './SignedInNavbar';
 
 const assignments = [
