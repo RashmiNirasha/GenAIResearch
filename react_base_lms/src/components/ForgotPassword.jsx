@@ -1,5 +1,6 @@
 // components/ForgotPassword.js
 import React, { useState } from 'react';
+import logo from '../assets/logo.png';
 
 const ForgotPassword = () => {
   const [email, setEmail] = useState('');
@@ -24,7 +25,9 @@ const ForgotPassword = () => {
     <div className="min-h-screen flex items-center justify-center bg-gray-100">
       <div className="bg-white p-8 rounded-lg shadow-lg max-w-sm w-full">
         <div className="text-center mb-6">
-          <img src="/path/to/logo.png" alt="EduLearn Logo" className="mx-auto mb-2" />
+          <div className="flex justify-center mb-5">
+            <img src={logo} alt="Logo" className="w-15 h-15" />
+          </div>           
           <h1 className="text-2xl font-bold mb-2">Forgot Password?</h1>
           <p className="text-gray-600">Don't worry! It happens. We will send an OTP to your registered email address.</p>
         </div>
