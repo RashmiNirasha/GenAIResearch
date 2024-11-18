@@ -13,6 +13,7 @@ import SubmittedAssignments from './components/SubmittedAssignments';
 import EditAssignment from './components/EditAssignment';
 import SubmitAssignment from './components/SubmitAssignment';
 import ProfilePage from './components/ProfilePage';
+import MyLearning from './components/MyLearningPage';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
         <Route path="/submitted-assignments/edit-assignment" element={<EditAssignment />} />
         <Route path="/assignments/submit-assignment" element={<SubmitAssignment />} />
         <Route path="/profile" element={<ProfilePage />} />
+        <Route path="/my-learning" element={<MyLearning />} />
       </Routes>
     </Router>
   );
