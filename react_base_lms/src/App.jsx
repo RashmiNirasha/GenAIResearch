@@ -30,7 +30,6 @@ function App() {
         <Route path="/submitted-assignments/edit-assignment" element={<EditAssignment />} />
         <Route path="/assignments/submit-assignment" element={<SubmitAssignment />} />
         <Route path="/profile" element={<ProfilePage />} />
-        {/* Add other routes here */}
       </Routes>
     </Router>
   );
