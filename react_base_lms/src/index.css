@@ -16,6 +16,9 @@ html {
   scroll-behavior: smooth;
 }
 
+.justify-text {
+  text-align: justify;
+}
 
 @tailwind base;
 @tailwind components;
