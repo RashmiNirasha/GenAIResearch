@@ -24,3 +24,7 @@ This is the main repository for the fourth year main research. All the informati
 - Generate LMS interfaces using GenAI models
     - What genAI models were explored
     - How the models were trained, on what data
+
+#Prototype 01: Base LMS 
+- GitHub repository : https://github.com/michellenikeetha/base_lms.git
+- Deployed LMS : https://base-lms.vercel.app/
