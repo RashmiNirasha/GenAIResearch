@@ -25,6 +25,7 @@ This is the main repository for the fourth year main research. All the informati
     - What genAI models were explored
     - How the models were trained, on what data
 
-#Prototype 01: Base LMS 
+# Prototype 01: Base LMS 
 - GitHub repository : https://github.com/michellenikeetha/base_lms.git
 - Deployed LMS : https://base-lms.vercel.app/
+- Clarity Project : https://clarity.microsoft.com/projects/view/p1n97ondqi/settings#overview
