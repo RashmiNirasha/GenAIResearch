@@ -29,3 +29,8 @@ This is the main repository for the fourth year main research. All the informati
 - GitHub repository : https://github.com/michellenikeetha/base_lms.git
 - Deployed LMS : https://base-lms.vercel.app/
 - Clarity Project : https://clarity.microsoft.com/projects/view/p1n97ondqi/settings#overview
+
+# Prototype 02: Manual LMS 
+- GitHub repository : [https://github.com/michellenikeetha/base_lms.git](https://github.com/michellenikeetha/manual_adhd_lms.git)
+- Deployed LMS : [https://base-lms.vercel.app/](https://manual-adhd-lms.vercel.app/)
+- Clarity Project : 
