@@ -34,3 +34,8 @@ This is the main repository for the fourth year main research. All the informati
 - GitHub repository : https://github.com/michellenikeetha/manual_adhd_lms.git
 - Deployed LMS : https://manual-adhd-lms.vercel.app/
 - Clarity Project : https://clarity.microsoft.com/projects/view/qiw91emtrr/settings#overview
+
+# Prototype 03: AI LMS 
+- GitHub repository : https://github.com/RashmiNirasha/ai-vle.git 
+- Deployed LMS : https://ai-vle.vercel.app/login 
+- Clarity Project : https://clarity.microsoft.com/projects/view/qfsogio69t/settings?date=Last%203%20days#overview 
