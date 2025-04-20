@@ -38,4 +38,7 @@ This is the main repository for the fourth year main research. All the informati
 # Prototype 03: AI LMS 
 - GitHub repository : https://github.com/RashmiNirasha/ai-vle.git 
 - Deployed LMS : https://ai-vle.vercel.app/login 
-- Clarity Project : https://clarity.microsoft.com/projects/view/qfsogio69t/settings?date=Last%203%20days#overview 
+- Clarity Project : https://clarity.microsoft.com/projects/view/qfsogio69t/settings?date=Last%203%20days#overview
+
+# Evaluations: Statistical Analysis 
+- GitHub repository : https://github.com/Rashi990/evalution_statistical_analysis.git
