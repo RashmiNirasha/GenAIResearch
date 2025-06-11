@@ -29,16 +29,22 @@ This is the main repository for the fourth year main research. All the informati
 - GitHub repository : https://github.com/michellenikeetha/base_lms.git
 - Deployed LMS : https://base-lms.vercel.app/  login credentials : username = admin , password =1234
 - Clarity Project : https://clarity.microsoft.com/projects/view/p1n97ondqi/settings#overview
-
+- SUS Evaluation Form : https://forms.gle/vtVgEvyiVAGH7FhW7
+- UEQ Evaluation Form : https://forms.gle/VxiEgV68e2xxQfyAA
+  
 # Prototype 02: Manual LMS 
 - GitHub repository : https://github.com/michellenikeetha/manual_adhd_lms.git
 - Deployed LMS : https://manual-adhd-lms.vercel.app/    login credentials : username = admin , password =1234
 - Clarity Project : https://clarity.microsoft.com/projects/view/qiw91emtrr/settings#overview
+- SUS Evaluation Form : https://forms.gle/XHdF7nEGUSqDcCH77
+- UEQ Evaluation Form : https://forms.gle/Lc9aroCB5Qs1iAjG6
 
 # Prototype 03: AI LMS 
 - GitHub repository : https://github.com/RashmiNirasha/ai-vle.git 
 - Deployed LMS : https://ai-vle.vercel.app/login    login credentials : username = admin , password =1234
 - Clarity Project : https://clarity.microsoft.com/projects/view/qfsogio69t/settings?date=Last%203%20days#overview
+- SUS Evaluation Form : https://forms.gle/ovmmRRiMrVWX8QrA9
+- UEQ Evaluation Form : https://forms.gle/MQuysxWF9CgjhKUt7
 
 # Evaluations: Statistical Analysis 
 - GitHub repository : https://github.com/Rashi990/evalution_statistical_analysis.git
