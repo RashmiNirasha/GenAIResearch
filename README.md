@@ -27,17 +27,17 @@ This is the main repository for the fourth year main research. All the informati
 
 # Prototype 01: Base LMS 
 - GitHub repository : https://github.com/michellenikeetha/base_lms.git
-- Deployed LMS : https://base-lms.vercel.app/
+- Deployed LMS : https://base-lms.vercel.app/  login credentials : username = admin , password =1234
 - Clarity Project : https://clarity.microsoft.com/projects/view/p1n97ondqi/settings#overview
 
 # Prototype 02: Manual LMS 
 - GitHub repository : https://github.com/michellenikeetha/manual_adhd_lms.git
-- Deployed LMS : https://manual-adhd-lms.vercel.app/
+- Deployed LMS : https://manual-adhd-lms.vercel.app/    login credentials : username = admin , password =1234
 - Clarity Project : https://clarity.microsoft.com/projects/view/qiw91emtrr/settings#overview
 
 # Prototype 03: AI LMS 
 - GitHub repository : https://github.com/RashmiNirasha/ai-vle.git 
-- Deployed LMS : https://ai-vle.vercel.app/login 
+- Deployed LMS : https://ai-vle.vercel.app/login    login credentials : username = admin , password =1234
 - Clarity Project : https://clarity.microsoft.com/projects/view/qfsogio69t/settings?date=Last%203%20days#overview
 
 # Evaluations: Statistical Analysis 
