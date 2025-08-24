@@ -15,7 +15,7 @@ Individuals with ADHD" research project. All information related to the research
 ### Generative AI Resources  
 - **AI Interface Evaluation Survey** → [Link](https://forms.gle/LzBJuogj7xuTUsXr5)  
 - **ChatGPT Extension** → [Link](https://chatgpt.com/g/g-67c5a45618f48191b44885e8b054241c-adhd-friendly-lms-engineer)  
-- **Collection of Prompts Used** → [Link](https://shorturl.at/QvWM4)  
+- **Collection of Prompts Used** → [Link](https://docs.google.com/spreadsheets/d/1n29ZdCJyAK9L8ErCxOX7Bn-xyD_9mM_q7cNx1EVwZ7o/edit?usp=sharing)  
 
 ### Evaluation & Statistical Analysis  
 - **GitHub Repository** → [Link](https://github.com/Rashi990/evalution_statistical_analysis.git)  
